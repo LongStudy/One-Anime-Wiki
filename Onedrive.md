@@ -13,3 +13,12 @@ SharePoint 管理中心(使用E5管理员帐号登录，设置OneDrive容量至5
 按照网上教程(也可以不需要)与以上链接就可以获取Onedrive。
 
 # 自动续订E5订阅
+
+续订E5订阅方案较多，有TG bot、网页、软件等。根据对应方案教程自行操作即可，通用注意事项有：[关闭 E5 账户登录双重验证](https://account.activedirectory.windowsazure.com/UserManagement/MultifactorVerification.aspx)、[关闭 Azure 中 API 调用的双重验证](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview)、建议使用不使用的子号授权API。
+
+软件方案和教程：https://e5renew.com/
+
+网页方案：https://e5.qyi.io/ 教程：https://qyi.io/archives/687.html
+
+还有Cloudflare KV加Github action方案较为复杂不再推荐
+
