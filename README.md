@@ -2,6 +2,7 @@
 从零开始自建 全自动轻量且Serverless的番剧网站，下载aria2+Rclone，存储Onedrive，网站Vercel+Upshash，自动化推送Power Automate等
 
 演示站点：https://anime.studylong.win/
+
 演示TG频道：https://t.me/One_Anime_CH
 
 1. 首先需要云存储空间，参考[Onedrive.md](Onedrive.md)
