@@ -9,3 +9,5 @@
 3. 然后配置自动下载方案，参考[Flexget.md](Flexget.md)
 4. 网站搭建使用Vercel+Upshash，参考[onedrive-vercel-index.md](onedrive-vercel-index.md)
 5. 自动化文件整理和推送工具使用Power Automate，参考[Power-Automate.md](Power-Automate.md)
+
+最终效果虽然看上去比较简陋，但也基本满足了看番需求，更不需要像Flex/Emby等需要刮削占用服务器资源。
